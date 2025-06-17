@@ -7,6 +7,8 @@ This guide will help you generate a keystore and configure your Flutter project 
 
 ## 📌 Step 1: Generate Keystore File
 
+Create a Folder credentail:
+
 Run the following command in terminal (adjust the file path as needed):
 
 ```bash
