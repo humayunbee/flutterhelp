@@ -10,13 +10,11 @@ This guide will help you generate a keystore and configure your Flutter project 
 Run the following command in terminal (adjust the file path as needed):
 
 ```bash
-keytool -genkey -v -keystore D:\flutterjks\huukum\upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
-
-keytool -genkey -v -keystore D:\stitbd\flutterjks\stitbdchaseba\upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
-
-keytool -genkey -v -keystore E:\AMyApp\flutterjks\emars6\upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
-
 keytool -genkey -v -keystore "D:\APP STITBD APP\glorious_sunday\credential\upload-keystore.jks" -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+```
+
+```bash
+keytool -genkey -v -keystore "D:\APPSTITBD\PosApps\st_multi_pos\credential\upload-keystore.jks" -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
 ```
 
 ---
