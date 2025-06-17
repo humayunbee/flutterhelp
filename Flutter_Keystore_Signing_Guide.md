@@ -12,7 +12,7 @@ Create a Folder credentail:
 Run the following command in terminal (adjust the file path as needed):
 
 ```bash
-keytool -genkey -v -keystore "D:\APP STITBD APP\glorious_sunday\credential\upload-keystore.jks" -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+keytool -genkey -v -keystore "D:\APPSTITBD\glorious_sunday\credential\upload-keystore.jks" -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
 ```
 
 ```bash
