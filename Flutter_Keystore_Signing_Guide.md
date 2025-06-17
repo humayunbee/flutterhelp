@@ -27,7 +27,7 @@ Create a file named `key.properties` in the root of your Flutter project:
 storePassword=123456
 keyPassword=123456
 keyAlias=upload
-storeFile=E:\\AMyApp\\Flutterjks\\psychicspace\\upload-keystore.jks
+storeFile=..\\..\\credential\\upload-keystore.jks
 ```
 
 ---
